@@ -1,0 +1,1 @@
+%force some measurement data to zero.
